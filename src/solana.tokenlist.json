@@ -16,11 +16,24 @@
       "decimals": 9,
       "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreidx7nry5g4aieh2lgofqean6vmq2qivtmoqe4s23o4kxzgpotqzd4",
       "tags": ["community"],
+      "description": "A Solana meme token inspired by Vigri, the legendary seal pup mascot of the 1980 Olympic Sailing Regatta. Now grown up and ready to shake up Web3.",
       "extensions": {
         "website": "https://vigri.ee",
         "telegram": "https://t.me/cryptovigri"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CP7D6EWCHLnrRA2JQs5PtvFSs5T2eLKK7fqg6zELsrJU",
+      "symbol": "MISHA",
+      "name": "Misha",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/78iYEMbZzudUa5MJY0GlkF0j9UFMOW7TXQcjH3lH3LM",
+      "tags": ["community"],
+      "description": "A Solana meme token based on Misha, the iconic bear of the 1980 Olympics. No longer just a symbol of the past — Misha returns with Web3 strength to unite communities and build a bold, decentralized future.",
+      "extensions": {
+        "telegram": "https://t.me/utilitymisha"
+      }
     }
   ]
 }
-
